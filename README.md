@@ -37,7 +37,7 @@
 ## 🐍 Contribution Snake
 ![snake](https://raw.githubusercontent.com/Zune-lab/Zune-lab/output/github-contribution-grid-snake-dark.svg)
 
-## 🎧 Đang nghe:
+## 🎧 Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31corqbaotlqm3jydd3d24xcfiiy&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=6C72B1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## ☕ Support Me:
