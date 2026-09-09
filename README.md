@@ -14,14 +14,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Zune-lab&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zune-lab&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zune-lab&layout=compact)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Zune-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C72B1&icon_color=6C72B1&text_color=c9d1d9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zune-lab&hide_border=true&background=0D1117&ring=6C72B1&fire=6C72B1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C72B1&sideLabels=c9d1d9&dates=8b8b9e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zune-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C72B1&text_color=c9d1d9)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Zune-lab)
-
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zune-lab&color=blue)
+![trophy](https://github-profile-trophy.vercel.app/?username=Zune-lab&theme=flat&no-frame=true&row=1&column=6)
