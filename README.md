@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=200&section=header&text=Xin%20Ch%C3%A0o,%20I'm%20Long%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=200&section=header&text=Xin%20Ch%C3%A0o,%20I'm%20Vuong%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31corqbaotlqm3jydd3d24xcfiiy&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=6C72B1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
