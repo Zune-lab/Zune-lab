@@ -13,7 +13,19 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Zune-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C72B1&icon_color=6C72B1&text_color=c9d1d9)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zune-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C72B1&icon_color=6C72B1&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zune-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C72B1&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zune-lab&hide_border=true&background=0D1117&ring=6C72B1&fire=6C72B1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C72B1&sideLabels=c9d1d9&dates=8b8b9e" />
+</p>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zune-lab&bg_color=0D1117&color=6C72B1&line=6C72B1&point=c9d1d9&area=true&hide_border=true" />
+</p>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zune-lab&hide_border=true&background=0D1117&ring=6C72B1&fire=6C72B1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C72B1&sideLabels=c9d1d9&dates=8b8b9e)
 
