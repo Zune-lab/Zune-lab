@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zun.nguyn/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/84909840611)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Zunne06)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF.svg?logo=zalo&logoColor=white)](https://zalo.me/84909840611)
 
 ## 🟣 Discord Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1537980605940105331?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Đang%20offline...)](https://discord.com/users/1537980605940105331)
