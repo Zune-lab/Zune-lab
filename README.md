@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=150&section=header)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Xin+ch%C3%A0o,+I'm+Vuong+%F0%9F%91%8B;Hello,+I'm+Vuong+%F0%9F%91%8B;Bonjour,+je+suis+Vuong+%F0%9F%91%8B;Hallo,+ich+bin+Vuong+%F0%9F%91%8B;Hola,+soy+Vuong+%F0%9F%91%8B;&font=Fira+Code&center=true&width=600&height=50&color=6C72B1&vCenter=true&size=28&pause=1200)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=220&section=header&text=Xin%20Ch%C3%A0o%20%2F%20Hello%20%2F%20Bonjour%20%2F%20Hallo%20%2F%20Hola%2C%20I'm%20Vuong%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer+%F0%9F%92%BB;Frontend+%26+Backend;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+m%E1%BB%97i+ng%C3%A0y;&font=Fira+Code&center=true&width=440&height=45&color=6C72B1&vCenter=true&size=22)](https://git.io/typing-svg)
 
