@@ -27,10 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zune-lab&bg_color=0D1117&color=6C72B1&line=6C72B1&point=c9d1d9&area=true&hide_border=true" />
 </p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zune-lab&hide_border=true&background=0D1117&ring=6C72B1&fire=6C72B1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C72B1&sideLabels=c9d1d9&dates=8b8b9e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zune-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C72B1&text_color=c9d1d9)
-
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Zune-lab&theme=flat&no-frame=true&row=1&column=6)
 
