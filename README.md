@@ -40,19 +40,17 @@
 ## 🎧 Đang nghe:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31corqbaotlqm3jydd3d24xcfiiy&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=6C72B1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-## ☕ Ủng hộ mình:
+## ☕ Support Me:
 <p align="center">
   <a href="https://ko-fi.com/TEN_BAN_DAT">
-    <img src="https://img.shields.io/badge/Ko--fi-Ủng%20hộ%20mình-6C72B1?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img width="200" src="https://img.vietqr.io/image/VCB-1051099269-compact2.png?accountName=NGUYEN%20HAI%20VUONG&addInfo=Ung%20ho%20Zune%20Lab" />
-</p>
-
-<p align="center">
-  <img width="250" src="https://img.vietqr.io/image/VCB-1051099269-compact2.png?accountName=NGUYEN%20HAI%20VUONG&addInfo=Ung%20ho%20Zune%20Lab" />
+  <img width="200" src="https://img.vietqr.io/image/VCB-1051099269-compact2.png?accountName=NGUYEN%20HAI%20VUONG&addInfo=Support%20Zune%20Lab" />
+  <br/>
+  <sub>Scan to donate via bank transfer 🇻🇳</sub>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=100&section=footer)
