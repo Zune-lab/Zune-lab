@@ -3,11 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer+%F0%9F%92%BB;Frontend+%26+Backend;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+m%E1%BB%97i+ng%C3%A0y;&font=Fira+Code&center=true&width=440&height=45&color=6C72B1&vCenter=true&size=22)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1537980605940105331?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Đang%20offline...)](https://discord.com/users/1537980605940105331)(https://discord.com/users/1537980605940105331)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1537980605940105331)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zuongnguyn06)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zun.nguyn/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/84909840611)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Zunne06)
+
+## 🟣 Discord Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1537980605940105331?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Đang%20offline...)](https://discord.com/users/1537980605940105331)
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
