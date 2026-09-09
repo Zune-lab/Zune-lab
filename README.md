@@ -40,4 +40,11 @@
 ## 🎧 Đang nghe:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31corqbaotlqm3jydd3d24xcfiiy&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=6C72B1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+## ☕ Ủng hộ mình:
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/TEN_BAN_DAT)
+
+<p align="center">
+  <img width="250" src="https://img.vietqr.io/image/VCB-1051099269-compact2.png?accountName=NGUYEN%20HAI%20VUONG&addInfo=Ung%20ho%20Zune%20Lab" />
+</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6C72B1&height=100&section=footer)
