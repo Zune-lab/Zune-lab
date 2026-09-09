@@ -42,8 +42,8 @@
 
 ## ☕ Support Me:
 <p align="center">
-  <a href="https://ko-fi.com/TEN_BAN_DAT">
-    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <a href='https://ko-fi.com/TEN_BAN_DAT' target='_blank'>
+    <img height='45' style='border:0px;height:45px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </p>
 
